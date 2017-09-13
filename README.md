@@ -1,6 +1,6 @@
 # Windows Console Monitoring
 This is a demonstration version of how to monitoring Windows console (starting from Windows 8). 
-The concept was based on the 2-part articles of fireeye blog but souce code wasn't revealed, so i decide to write a POC for my own.
+The concept was based on the 2-part articles of fireeye blog but source code wasn't revealed, so i decide to write a POC for my own.
 Let me know if you want some more features.
 
 The 2-part articles of fireeye blog can be viewed here:
